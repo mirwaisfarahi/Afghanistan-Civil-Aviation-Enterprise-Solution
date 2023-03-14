@@ -12,7 +12,7 @@ Afghanistan Civil Aviation Enterprise Solution is an ERP system with modules as 
 
 - .Net Core 6 
 - EF / Entity Framework
-- React
+- Angular JS
 - Web API
 - Clean Architecture Methodlogy
 
